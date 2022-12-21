@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mxmzb/react-aiwriter/master/img/logo-emoji.png" height="150" />
+  <img src="https://raw.githubusercontent.com/mxmzb/react-aiwriter/master/img/logo-emoji.gif" height="150" />
 </p>
 
 <br />
