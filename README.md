@@ -5,7 +5,7 @@
 <br />
 
 <h2 align="center">React AIWriter</h2>
-<h3 align="center">Inspired by the first versions [interface of ChatGPT](https://chat.openai.com/chat)</h3>
+<h3 align="center">Inspired by the first versions <a href="https://chat.openai.com/chat">interface of ChatGPT</a></h3>
 
 <br />
 
@@ -24,7 +24,9 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/mxmzb/react-aiwriter/master/img/chatgpt-example.gif" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mxmzb/react-aiwriter/master/img/chatgpt-example.gif" style="max-width: 540px;" />
+</p>
 
 ### Example app and usage
 
