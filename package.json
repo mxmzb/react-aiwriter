@@ -1,0 +1,9 @@
+{
+  "name": "react-aiwriter",
+  "version": "1.0.0",
+  "description": "⌨️ Typewriter effect inspired by ChatGPT",
+  "main": "index.js",
+  "repository": "https://github.com/mxmzb/react-aiwriter",
+  "author": "Maxim Zubarev",
+  "license": "MIT"
+}
