@@ -39,7 +39,7 @@ $ cd example && yarn
 $ yarn dev
 ```
 
-After installing the demo locally you can visit it at http://localhost:8000
+After installing the demo locally you can visit it at http://localhost:3000
 
 ## Intro
 
