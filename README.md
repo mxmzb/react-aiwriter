@@ -79,7 +79,7 @@ The main slider container, where you want to put all your slider elements inside
 | :--------- | :--------: | :-----------: | :------------------------------------------------------ |
 | `children` |    null    | `ReactNode[]` | Child elements. Should be text nodes                    |
 | `delay`    |    `25`    |   `number`    | The time between nodes / words rendered in milliseconds |
-| `onFinish` | `() => {}` |  `function`   | Do something after all nodes / words rendered           |
+| `onEnd`    | `() => {}` |  `function`   | Do something after all nodes / words rendered           |
 
 ## License
 
